@@ -81,3 +81,4 @@ class TestWin(QWidget):
 
 app = QApplication([])
 win_2 = TestWin()
+# Внес изменения
